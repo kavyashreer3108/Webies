@@ -73,7 +73,7 @@ function Footer() {
           <div className="footer-logo">
             <Link to="/" className="social-logo">
               <MdFingerprint className="navbar-icon" />
-              LAVISH
+              WEBIES
             </Link>
           </div>
           <small className="website-rights">
